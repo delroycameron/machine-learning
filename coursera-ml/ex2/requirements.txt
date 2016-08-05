@@ -1,0 +1,5 @@
+ipython[all]
+numpy
+scikit-learn
+matplotlib
+scipy
